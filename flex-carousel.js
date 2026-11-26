@@ -5,27 +5,39 @@ export const photo = (id) => `https://images.unsplash.com/${id}?w=1200&q=80&auto
 export const DEFAULT_ITEMS = [
   {
     src: 'Project Images/premalu.webp',
-    alt: 'Premalu',
-    title: 'Premalu',
-    subtitle: 'Romantic Comedy Feature Film',
-    description: 'Directed by Girish AD, produced by Bhavana Studios. A blockbuster romantic comedy that captured audiences worldwide.',
-    link: '#'
+    alt: 'Aadu Series — Dragon Paili',
+    title: 'Aadu Series',
+    subtitle: 'Cult Classic Comedy Franchise',
+    description: "Nelson's iconic character 'Dragon Paili' alongside Shaji Pappan's gang in Midhun Manuel Thomas's cult-classic comedy franchise. Celebrated as an evergreen Malayali pop-culture phenomenon.",
+    link: '#',
+    category: 'FEATURE FILM',
+    stats: 'Cult character with 50M+ social media impressions across Kerala.',
+    deliverables: ['Iconic Character: Dragon Paili', 'Cult Gangster Comedy Style', 'Evergreen Dialogue Delivery', 'Massive Fan Following'],
+    tools: ['Midhun Manuel Thomas', 'Friday Film House', 'Jayasurya', 'Malayalam Cinema']
   },
   {
     src: 'Project Images/lokah.webp',
-    alt: 'Lokah Chapter 1',
-    title: 'Lokah',
-    subtitle: 'Chapter 1: Chandra',
-    description: 'A dynamic cinematic sci-fi thriller series introducing a bold new superhero universe.',
-    link: '#'
+    alt: 'Romans — Blockbuster Comedy',
+    title: 'Romans',
+    subtitle: 'Blockbuster Satirical Comedy',
+    description: 'Directed by Boban Samuel, starring Kunchacko Boban and Biju Menon. Nelson plays the quirky church assistant Father Geevarghese with signature slapstick expressions.',
+    link: '#',
+    category: 'FEATURE FILM',
+    stats: 'Box office blockbuster grossing over ₹30+ Crore.',
+    deliverables: ['Situational Slapstick Acting', 'Parish Church Dynamics', 'Ensemble Comic Timing', 'Box Office Superhit'],
+    tools: ['Boban Samuel', 'Y.V. Rajesh', 'Kunchacko Boban', 'Biju Menon']
   },
   {
     src: 'Project Images/scene.jpg',
-    alt: 'Scene',
-    title: 'Scene',
-    subtitle: 'Cinematic Action Thriller',
-    description: 'High-octane action thriller featuring intense drama and gripping performances.',
-    link: '#'
+    alt: 'Spanish Masala',
+    title: 'Spanish Masala',
+    subtitle: 'Lal Jose Comedy Drama',
+    description: 'Directed by veteran Lal Jose and shot on location in Spain. Nelson portrays Pappan alongside Dileep and Kunchacko Boban, bringing classic Kerala wit to Europe.',
+    link: '#',
+    category: 'FEATURE FILM',
+    stats: 'Filmed on location in Madrid, Spain; widely praised comic relief role.',
+    deliverables: ['International Shoot in Spain', 'Memorable Slapstick Timing', 'Lal Jose Directorial Collaboration', 'Festival & Theatre Hit'],
+    tools: ['Lal Jose', 'Dileep', 'Kunchacko Boban', 'Benny P. Nayarambalam']
   }
 ];
 

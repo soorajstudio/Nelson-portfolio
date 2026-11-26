@@ -136,11 +136,11 @@ export async function initExperienceSection() {
     // 5. Update HUD Phase Title
     if (hudPhase) {
       if (currentProgress < 0.30) {
-        hudPhase.textContent = "ORIGIN & FOUNDATIONS";
+        hudPhase.textContent = "ORIGIN & STAGE MIMICRY";
       } else if (currentProgress < 0.65) {
-        hudPhase.textContent = "SELF-DIRECTED LEARNING";
+        hudPhase.textContent = "STAGE & COMEDY STARS";
       } else {
-        hudPhase.textContent = "FREELANCE / INDEPENDENT";
+        hudPhase.textContent = "MALAYALAM CINEMA & 50+ FILMS";
       }
     }
 
