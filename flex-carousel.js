@@ -5,39 +5,39 @@ export const photo = (id) => `https://images.unsplash.com/${id}?w=1200&q=80&auto
 export const DEFAULT_ITEMS = [
   {
     src: 'Project Images/premalu.webp',
-    alt: 'Aadu Series — Dragon Paili',
-    title: 'Aadu Series',
-    subtitle: 'Cult Classic Comedy Franchise',
-    description: "Nelson's iconic character 'Dragon Paili' alongside Shaji Pappan's gang in Midhun Manuel Thomas's cult-classic comedy franchise. Celebrated as an evergreen Malayali pop-culture phenomenon.",
+    alt: 'Premalu — Sachin Santhosh',
+    title: 'Premalu',
+    subtitle: 'All-Time Blockbuster Romantic Comedy',
+    description: "Naslen's career-defining lead performance as Sachin Santhosh in Girish A.D.'s historic romantic comedy, produced by Bhavana Studios. Grossing over ₹136+ Crore worldwide, it became a pan-Indian youth phenomenon.",
     link: '#',
     category: 'FEATURE FILM',
-    stats: 'Cult character with 50M+ social media impressions across Kerala.',
-    deliverables: ['Iconic Character: Dragon Paili', 'Cult Gangster Comedy Style', 'Evergreen Dialogue Delivery', 'Massive Fan Following'],
-    tools: ['Midhun Manuel Thomas', 'Friday Film House', 'Jayasurya', 'Malayalam Cinema']
+    stats: '₹136+ Crore worldwide box office; one of the highest-grossing Malayalam films in history.',
+    deliverables: ['Lead Character: Sachin Santhosh', 'Pan-Indian Box Office Sensation', 'Iconic Chemistry with Mamitha Baiju', 'Bhavana Studios & Fahadh Faasil Collaboration'],
+    tools: ['Girish A.D.', 'Bhavana Studios', 'Fahadh Faasil', 'Mamitha Baiju']
   },
   {
     src: 'Project Images/lokah.webp',
-    alt: 'Romans — Blockbuster Comedy',
-    title: 'Romans',
-    subtitle: 'Blockbuster Satirical Comedy',
-    description: 'Directed by Boban Samuel, starring Kunchacko Boban and Biju Menon. Nelson plays the quirky church assistant Father Geevarghese with signature slapstick expressions.',
+    alt: 'Lokah — Chapter 1: Chandra',
+    title: 'Lokah',
+    subtitle: 'Chapter 1: Chandra',
+    description: 'High-concept upcoming visual spectacle exploring a cinematic fantasy universe, starring Naslen in a bold, imaginative new avatar.',
     link: '#',
     category: 'FEATURE FILM',
-    stats: 'Box office blockbuster grossing over ₹30+ Crore.',
-    deliverables: ['Situational Slapstick Acting', 'Parish Church Dynamics', 'Ensemble Comic Timing', 'Box Office Superhit'],
-    tools: ['Boban Samuel', 'Y.V. Rajesh', 'Kunchacko Boban', 'Biju Menon']
+    stats: 'Anticipated pan-South Indian high-concept franchise project.',
+    deliverables: ['High-Concept World Building', 'Advanced Visual Effects & Stunts', 'Bold Character Persona', 'Upcoming Marquee Release'],
+    tools: ['Cinematic Sci-Fi / Fantasy', 'South Indian Cinema', 'Marquee Project']
   },
   {
     src: 'Project Images/scene.jpg',
-    alt: 'Spanish Masala',
-    title: 'Spanish Masala',
-    subtitle: 'Lal Jose Comedy Drama',
-    description: 'Directed by veteran Lal Jose and shot on location in Spain. Nelson portrays Pappan alongside Dileep and Kunchacko Boban, bringing classic Kerala wit to Europe.',
+    alt: 'Home & Thanneer Mathan Dinangal',
+    title: 'Home & Thanneer Mathan',
+    subtitle: 'Critically Acclaimed Cult Hits',
+    description: 'From his unforgettable debut as Melvin in Thanneer Mathan Dinangal to winning the SIIMA Award for Best Comedian as Charles Oliver Twist in #Home, establishing Naslen as the definitive voice of contemporary youth cinema.',
     link: '#',
     category: 'FEATURE FILM',
-    stats: 'Filmed on location in Madrid, Spain; widely praised comic relief role.',
-    deliverables: ['International Shoot in Spain', 'Memorable Slapstick Timing', 'Lal Jose Directorial Collaboration', 'Festival & Theatre Hit'],
-    tools: ['Lal Jose', 'Dileep', 'Kunchacko Boban', 'Benny P. Nayarambalam']
+    stats: 'SIIMA Award Winner for Best Comedian (#Home); viral cult debut with Thanneer Mathan Dinangal.',
+    deliverables: ['SIIMA Award for Best Comedian', 'Melvin: Evergreen Pop-Culture Dialogues', 'Charles Oliver Twist: Heartfelt Family Comedy', 'Critical & Commercial Acclaim'],
+    tools: ['Rojin Thomas', 'Girish A.D.', 'Friday Film House', 'Amazon Prime Global']
   }
 ];
 

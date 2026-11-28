@@ -136,11 +136,11 @@ export async function initExperienceSection() {
     // 5. Update HUD Phase Title
     if (hudPhase) {
       if (currentProgress < 0.30) {
-        hudPhase.textContent = "ORIGIN & STAGE MIMICRY";
+        hudPhase.textContent = "ORIGINS & DEBUT (2019)";
       } else if (currentProgress < 0.65) {
-        hudPhase.textContent = "STAGE & COMEDY STARS";
+        hudPhase.textContent = "THANNEER MATHAN & HOME";
       } else {
-        hudPhase.textContent = "MALAYALAM CINEMA & 50+ FILMS";
+        hudPhase.textContent = "PREMALU & ₹136CR+ BLOCKBUSTERS";
       }
     }
 
